@@ -1,0 +1,114 @@
+
+.white-padding {
+    padding: 20px; 
+    background-color: white ;
+}
+
+/* Padding gris */
+.gray-padding {
+    padding: 30px; 
+    background-color:#D3D3D3; 
+}
+
+/* Padding gris */
+.yellow-padding {
+    padding: 30px ; 
+    background-color:#fcfcea; 
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 20px;
+    
+    
+    border:2px solid red ;
+    background-color:white;
+}
+
+header {
+    padding: 20px ;
+    text-align: center;
+
+}
+
+main {
+    padding: 20px; ;
+    font-family:'calibri' ,sans-serif;
+    font-weight:bold ;
+    font-size: 18px;
+}
+
+.separator {
+    border:1px solid red ; 
+    width:90%;
+    margin:10px auto ; 
+}
+
+.section {
+    padding: 10px;  
+}
+
+footer {
+    background-color: white;
+    border-top:5px solid #c7ccbd; 
+    color :#FFF ;
+    text-align: right ;
+    padding: 10px;
+    bottom:0 ;
+    width:99,5 px ;
+    border-left: 50px solid #c7ccbd;
+    border-right:50px solid #c7ccbd ;
+}
+
+.footer-content {
+    max: width 800px; ; 
+    margin:0 auto ;
+    color: black;
+    background-color: white;
+}
+
+footer a {
+    text-decoration: underline; 
+    color:gray ;
+}
+.centered-image {
+    
+    max-width: 400px; 
+    
+}
+
+.centered-square {
+    text-align:center ;
+    padding: 10px;
+    background-color: white; 
+    border:2px solid black ; 
+
+    margin: auto;
+    width:400px ; 
+    
+}
+.gray-underline {
+    color: gray; 
+    text-decoration: underline; 
+}
+
+.literature-poem {
+    margin: 40px;
+    padding: ; 
+    width: ;
+    box-sizing: ; 
+}
+
+.literature-poem p {
+    margin: ;
+    line-height: ;
+}
+h1{
+    background-color: red;
+    height: 60px;
+    width: auto;
+    color: azure;
+    padding-top: 20px;
+    margin: auto;
+    
+}
